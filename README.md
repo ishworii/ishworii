@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishworii
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on ML projects, scraping projects, and API development projects
 - 📫 How to reach me `ishworkhanal21@gmail.com`
 
