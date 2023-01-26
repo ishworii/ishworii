@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishworii
-- 👀 I’m interested in deep learning
+- 👀 I’m interested in data engineering
 - 🌱 I’m currently learning FastAPI
-- 💞️ I’m looking to collaborate on ML projects, scraping projects, and API development projects
+- 💞️ I’m looking to collaborate on ML projects, scraping projects, and data engineering projects.
 - 📫 How to reach me `ishworkhanal21@gmail.com`
 
 <!---
