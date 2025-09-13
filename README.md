@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishworii(https://ishworkhanal.vercel.app/)
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ML projects, scraping projects, and API development project.
 
 <!---
